@@ -24,12 +24,6 @@ This repository contains the Natural Language Processing (NLP) laboratory experi
 
 | Experiment 7 | Named Entity Recognition |
 
-| Experiment 8 | Chunking |
-
-| Experiment 9 | Text Classification |
-
-| Experiment 10 | NLP Application |
-
 ## 🛠️ Technologies Used
 
 - Python 3.x
